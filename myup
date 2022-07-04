@@ -1,0 +1,4 @@
+sudo apt --yes update
+sudo apt --yes upgrade
+sudo apt --yes autoremove --purge
+sudo snap refresh
